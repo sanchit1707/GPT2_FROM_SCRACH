@@ -125,7 +125,7 @@ class GPT2(nn.Module):
     
 if __name__=="__main__":
     model=GPT2()
-    input=torch.ones((4,7),dtype=torch.long)
+    input=torch.ones((4,9),dtype=torch.long)
     out=model(input)
     print(out.size())
 
