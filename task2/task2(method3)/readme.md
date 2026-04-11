@@ -42,26 +42,6 @@ Adapter structure:
 
 ---
 
-## Setup Instructions
-
-### 1. Install Dependencies
-
-```bash
-pip install torch transformers datasets
-```
-
-### 2.dataset formatting
-Below is an instruction that describes a task...
-```
-### Instruction:
-...
-
-### Input:
-...
-
-### Response:
-...
-```
 ## 🧪 Training Details
 
 | Parameter             | Value                          |
