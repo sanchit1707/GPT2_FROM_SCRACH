@@ -39,7 +39,7 @@ Below is an instruction that describes a task...
 <output>
 ```
 
-## 🔤 Tokenization Details
+## Tokenization Details
 
 The dataset is tokenized using the GPT-2 tokenizer with the following configuration:
 
