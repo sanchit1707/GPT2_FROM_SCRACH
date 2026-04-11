@@ -66,7 +66,7 @@ To properly train the model for instruction-following tasks, we apply **selectiv
 
 The model **only learns from the response**, not the instruction.
 
-## 🧪 Training Details
+## Training Details
 
 | Parameter             | Value                        |
 |----------------------|------------------------------|
