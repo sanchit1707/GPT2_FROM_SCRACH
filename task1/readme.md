@@ -78,7 +78,6 @@ next_token = torch.multinomial(probs, num_samples=1)
 
 ## further improvments
 -Add dropout
--Add dropout
 
 ## purpose 
 getting into cynaptics(hopefully)
