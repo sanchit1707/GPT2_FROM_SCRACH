@@ -85,7 +85,7 @@ getting into cynaptics(hopefully)
 
 ## How to Run (Evaluation / Inference)
 
-### ⚙️ Steps to Run
+### Steps to Run
 
 1. **Train the model (or use an existing checkpoint)**  
    Ensure you have a trained model checkpoint stored in:
@@ -98,4 +98,20 @@ r'S:\gpt2_from_scrach\checkpoints\checkpoint_38500.pth'
 ```
 
 3. **run the `eval.py` script**
+
+## results
+
+could not upload the checkpoint.pth file for weight(github only allows 25mb file)
+
+### but here are some results i got
+
+<img width="1019" height="327" alt="image" src="https://github.com/user-attachments/assets/9319bd13-f3b1-43ed-ba4a-c0c56f2d9253" />
+
+<img width="1013" height="527" alt="image" src="https://github.com/user-attachments/assets/f904450f-778c-488f-ba15-c66c4c25e820" />
+
+<img width="1557" height="917" alt="image" src="https://github.com/user-attachments/assets/9bbf8cc7-0ed4-4c9a-b9d5-ae1d37946a19" />
+
+
+
+
 
