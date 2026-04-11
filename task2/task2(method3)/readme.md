@@ -42,7 +42,7 @@ Adapter structure:
 
 ---
 
-## 🧪 Training Details
+## Training Details
 
 | Parameter             | Value                          |
 |----------------------|--------------------------------|
